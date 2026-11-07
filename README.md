@@ -8,7 +8,7 @@ A web tool for first-year CS students (Machine Structure course). Type a boolean
 * the **logic circuit**, drawn, zoomable, with clickable input switches
 * the reverse direction: draw a **truth table and get the function** (Table → Function)
 
-Built by Ali (CS student, ENSIA) as a learning project and as a real tool for classmates. Feedback from real users is part of the goal.
+Built by Ali (CS student, NTiC) as a learning project and as a real tool for classmates. Feedback from real users is part of the goal.
 
 ```
 x'y + xy'   →   Σ m(1, 2)   |   Π M(0, 3)   |   x'y + xy'   |   (x + y)(x' + y')   |   K-map   |   circuit
