@@ -547,4 +547,4 @@ Not chosen yet. Add a `LICENSE` file before sharing widely (MIT is a common choi
 
 ## Author
 
-**Ali**, CS student at ENSIA.
+**Ali**, CS student at NTiC.
